@@ -13,6 +13,8 @@ You can check it out here: [Patrycja Niestrój - PatatapClone](https://patrycjan
 
 ## Credits
 Project made during [The Web Developer Bootcamp by Colt Steele](https://www.udemy.com/the-web-developer-bootcamp/)
+
 Audio libarary - [HOWLER.JS](https://howlerjs.com/)
+
 Graphics library - [Paper.js](https://paperjs.org/)
 
